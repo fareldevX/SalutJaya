@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /checkout
+# TODO: tambahkan "Sitemap: https://<domain-produksi>/sitemap.xml" setelah domain final dan sitemap dibuat.

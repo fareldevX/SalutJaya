@@ -1,0 +1,534 @@
+[
+  {
+    "id": "p-001",
+    "slug": "dell-poweredge-r760",
+    "name": "Dell PowerEdge R760",
+    "brand": "Dell",
+    "category": "server",
+    "price": 189000000,
+    "stock": 6,
+    "featured": true,
+    "image": null,
+    "specSummary": ["2× Xeon Gold 5416S", "128 GB DDR5", "2× 10GbE"],
+    "specs": {
+      "Prosesor": "2× Xeon Gold 5416S",
+      "Memori": "128 GB DDR5",
+      "Jaringan": "2× 10GbE",
+      "Form factor": "1U rack",
+      "Garansi": "3 tahun on-site"
+    }
+  },
+  {
+    "id": "p-002",
+    "slug": "hpe-proliant-dl380-gen11",
+    "name": "HPE ProLiant DL380 Gen11",
+    "brand": "HPE",
+    "category": "server",
+    "price": 204500000,
+    "stock": 4,
+    "featured": false,
+    "image": null,
+    "specSummary": ["2× Xeon Silver 4410Y", "128 GB DDR5", "4× 10GbE"],
+    "specs": {
+      "Prosesor": "2× Xeon Silver 4410Y",
+      "Memori": "128 GB DDR5",
+      "Jaringan": "4× 10GbE",
+      "Form factor": "2U rack",
+      "Garansi": "3 tahun on-site"
+    }
+  },
+  {
+    "id": "p-003",
+    "slug": "lenovo-thinksystem-sr650-v3",
+    "name": "Lenovo ThinkSystem SR650 V3",
+    "brand": "Lenovo",
+    "category": "server",
+    "price": 176000000,
+    "stock": 7,
+    "featured": false,
+    "image": null,
+    "specSummary": ["2× Xeon Silver 4416+", "192 GB DDR5", "2× 25GbE"],
+    "specs": {
+      "Prosesor": "2× Xeon Silver 4416+",
+      "Memori": "192 GB DDR5",
+      "Jaringan": "2× 25GbE",
+      "Form factor": "Tower",
+      "Garansi": "3 tahun on-site"
+    }
+  },
+  {
+    "id": "p-004",
+    "slug": "dell-poweredge-r660xs",
+    "name": "Dell PowerEdge R660xs",
+    "brand": "Dell",
+    "category": "server",
+    "price": 98500000,
+    "stock": 12,
+    "featured": false,
+    "image": null,
+    "specSummary": ["1× Xeon Silver 4410Y", "64 GB DDR5", "2× 1GbE"],
+    "specs": {
+      "Prosesor": "1× Xeon Silver 4410Y",
+      "Memori": "64 GB DDR5",
+      "Jaringan": "2× 1GbE",
+      "Form factor": "1U rack",
+      "Garansi": "3 tahun on-site"
+    }
+  },
+  {
+    "id": "p-005",
+    "slug": "supermicro-superserver-sys-221h",
+    "name": "Supermicro SuperServer SYS-221H",
+    "brand": "Supermicro",
+    "category": "server",
+    "price": 142000000,
+    "stock": 5,
+    "featured": false,
+    "image": null,
+    "specSummary": ["2× Xeon Gold 6430", "256 GB DDR5", "2× 10GbE"],
+    "specs": {
+      "Prosesor": "2× Xeon Gold 6430",
+      "Memori": "256 GB DDR5",
+      "Jaringan": "2× 10GbE",
+      "Form factor": "2U rack",
+      "Garansi": "3 tahun on-site"
+    }
+  },
+  {
+    "id": "p-006",
+    "slug": "hpe-proliant-ml350-gen10",
+    "name": "HPE ProLiant ML350 Gen10",
+    "brand": "HPE",
+    "category": "server",
+    "price": 87000000,
+    "stock": 9,
+    "featured": false,
+    "image": null,
+    "specSummary": ["1× Xeon Silver 4210R", "32 GB DDR4", "4× 1GbE"],
+    "specs": {
+      "Prosesor": "1× Xeon Silver 4210R",
+      "Memori": "32 GB DDR4",
+      "Jaringan": "4× 1GbE",
+      "Form factor": "Tower",
+      "Garansi": "3 tahun on-site"
+    }
+  },
+  {
+    "id": "p-007",
+    "slug": "dell-poweredge-t360",
+    "name": "Dell PowerEdge T360",
+    "brand": "Dell",
+    "category": "server",
+    "price": 42500000,
+    "stock": 15,
+    "featured": false,
+    "image": null,
+    "specSummary": ["1× Xeon E-2434", "32 GB DDR5", "2× 1GbE"],
+    "specs": {
+      "Prosesor": "1× Xeon E-2434",
+      "Memori": "32 GB DDR5",
+      "Jaringan": "2× 1GbE",
+      "Form factor": "1U rack",
+      "Garansi": "3 tahun on-site"
+    }
+  },
+  {
+    "id": "p-008",
+    "slug": "lenovo-thinksystem-sr250-v2",
+    "name": "Lenovo ThinkSystem SR250 V2",
+    "brand": "Lenovo",
+    "category": "server",
+    "price": 36800000,
+    "stock": 11,
+    "featured": true,
+    "image": null,
+    "specSummary": ["1× Xeon E-2336", "32 GB DDR4", "2× 1GbE"],
+    "specs": {
+      "Prosesor": "1× Xeon E-2336",
+      "Memori": "32 GB DDR4",
+      "Jaringan": "2× 1GbE",
+      "Form factor": "2U rack",
+      "Garansi": "3 tahun on-site"
+    }
+  },
+  {
+    "id": "p-009",
+    "slug": "huawei-fusionserver-2288h-v6",
+    "name": "Huawei FusionServer 2288H V6",
+    "brand": "Huawei",
+    "category": "server",
+    "price": 158000000,
+    "stock": 3,
+    "featured": false,
+    "image": null,
+    "specSummary": ["2× Xeon Gold 5318Y", "128 GB DDR4", "2× 25GbE"],
+    "specs": {
+      "Prosesor": "2× Xeon Gold 5318Y",
+      "Memori": "128 GB DDR4",
+      "Jaringan": "2× 25GbE",
+      "Form factor": "Tower",
+      "Garansi": "3 tahun on-site"
+    }
+  },
+  {
+    "id": "p-010",
+    "slug": "dell-poweredge-r760xa-gpu",
+    "name": "Dell PowerEdge R760xa (GPU)",
+    "brand": "Dell",
+    "category": "server",
+    "price": 612000000,
+    "stock": 2,
+    "featured": false,
+    "image": null,
+    "specSummary": ["2× Xeon Gold 6442Y", "512 GB DDR5", "2× 25GbE"],
+    "specs": {
+      "Prosesor": "2× Xeon Gold 6442Y",
+      "Memori": "512 GB DDR5",
+      "Jaringan": "2× 25GbE",
+      "Form factor": "1U rack",
+      "Garansi": "3 tahun on-site"
+    }
+  },
+  {
+    "id": "p-011",
+    "slug": "cisco-catalyst-9300-48p",
+    "name": "Cisco Catalyst 9300-48P",
+    "brand": "Cisco",
+    "category": "switch",
+    "price": 142000000,
+    "stock": 8,
+    "featured": false,
+    "image": null,
+    "specSummary": ["48× 1GbE PoE+", "4× 10G SFP+", "PoE+ 437 W"],
+    "specs": {
+      "Port": "48× 1GbE PoE+",
+      "Uplink": "4× 10G SFP+",
+      "PoE": "PoE+ 437 W",
+      "Form factor": "1U rack",
+      "Garansi": "1 tahun"
+    }
+  },
+  {
+    "id": "p-012",
+    "slug": "aruba-cx-6300m-48g",
+    "name": "Aruba CX 6300M 48G",
+    "brand": "Aruba",
+    "category": "switch",
+    "price": 118000000,
+    "stock": 6,
+    "featured": false,
+    "image": null,
+    "specSummary": ["48× 1GbE", "4× 50G SFP56", "PoE+ 740 W"],
+    "specs": {
+      "Port": "48× 1GbE",
+      "Uplink": "4× 50G SFP56",
+      "PoE": "PoE+ 740 W",
+      "Form factor": "1U rack",
+      "Garansi": "1 tahun"
+    }
+  },
+  {
+    "id": "p-013",
+    "slug": "juniper-ex4400-24t",
+    "name": "Juniper EX4400-24T",
+    "brand": "Juniper",
+    "category": "switch",
+    "price": 96000000,
+    "stock": 5,
+    "featured": false,
+    "image": null,
+    "specSummary": ["24× 1GbE", "4× 25G SFP28", "Tanpa PoE"],
+    "specs": {
+      "Port": "24× 1GbE",
+      "Uplink": "4× 25G SFP28",
+      "PoE": "Tanpa PoE",
+      "Form factor": "1U rack",
+      "Garansi": "1 tahun"
+    }
+  },
+  {
+    "id": "p-014",
+    "slug": "mikrotik-crs326-24g-2s-rm",
+    "name": "MikroTik CRS326-24G-2S+RM",
+    "brand": "MikroTik",
+    "category": "switch",
+    "price": 4950000,
+    "stock": 40,
+    "featured": false,
+    "image": null,
+    "specSummary": ["24× 1GbE", "2× 10G SFP+", "Tanpa PoE"],
+    "specs": {
+      "Port": "24× 1GbE",
+      "Uplink": "2× 10G SFP+",
+      "PoE": "Tanpa PoE",
+      "Form factor": "1U rack",
+      "Garansi": "1 tahun"
+    }
+  },
+  {
+    "id": "p-015",
+    "slug": "ubiquiti-unifi-pro-48-poe",
+    "name": "Ubiquiti UniFi Pro 48 PoE",
+    "brand": "Ubiquiti",
+    "category": "switch",
+    "price": 17800000,
+    "stock": 18,
+    "featured": true,
+    "image": null,
+    "specSummary": ["48× 1GbE PoE+", "4× 10G SFP+", "PoE+ 600 W"],
+    "specs": {
+      "Port": "48× 1GbE PoE+",
+      "Uplink": "4× 10G SFP+",
+      "PoE": "PoE+ 600 W",
+      "Form factor": "1U rack",
+      "Garansi": "1 tahun"
+    }
+  },
+  {
+    "id": "p-016",
+    "slug": "huawei-cloudengine-s5735-l48t4s",
+    "name": "Huawei CloudEngine S5735-L48T4S",
+    "brand": "Huawei",
+    "category": "switch",
+    "price": 21500000,
+    "stock": 14,
+    "featured": false,
+    "image": null,
+    "specSummary": ["48× 1GbE", "4× 10G SFP+", "Tanpa PoE"],
+    "specs": {
+      "Port": "48× 1GbE",
+      "Uplink": "4× 10G SFP+",
+      "PoE": "Tanpa PoE",
+      "Form factor": "1U rack",
+      "Garansi": "1 tahun"
+    }
+  },
+  {
+    "id": "p-017",
+    "slug": "tp-link-jetstream-tl-sg3452p",
+    "name": "TP-Link JetStream TL-SG3452P",
+    "brand": "TP-Link",
+    "category": "switch",
+    "price": 7900000,
+    "stock": 25,
+    "featured": false,
+    "image": null,
+    "specSummary": ["48× 1GbE PoE+", "4× 1G SFP", "PoE+ 384 W"],
+    "specs": {
+      "Port": "48× 1GbE PoE+",
+      "Uplink": "4× 1G SFP",
+      "PoE": "PoE+ 384 W",
+      "Form factor": "1U rack",
+      "Garansi": "1 tahun"
+    }
+  },
+  {
+    "id": "p-018",
+    "slug": "cisco-catalyst-9200l-24t",
+    "name": "Cisco Catalyst 9200L-24T",
+    "brand": "Cisco",
+    "category": "switch",
+    "price": 38500000,
+    "stock": 10,
+    "featured": false,
+    "image": null,
+    "specSummary": ["24× 1GbE", "4× 10G SFP+", "Tanpa PoE"],
+    "specs": {
+      "Port": "24× 1GbE",
+      "Uplink": "4× 10G SFP+",
+      "PoE": "Tanpa PoE",
+      "Form factor": "1U rack",
+      "Garansi": "1 tahun"
+    }
+  },
+  {
+    "id": "p-019",
+    "slug": "aruba-cx-8360-32y4c",
+    "name": "Aruba CX 8360-32Y4C",
+    "brand": "Aruba",
+    "category": "switch",
+    "price": 385000000,
+    "stock": 2,
+    "featured": false,
+    "image": null,
+    "specSummary": ["32× 25G SFP28", "4× 100G QSFP28", "Tanpa PoE"],
+    "specs": {
+      "Port": "32× 25G SFP28",
+      "Uplink": "4× 100G QSFP28",
+      "PoE": "Tanpa PoE",
+      "Form factor": "1U rack",
+      "Garansi": "1 tahun"
+    }
+  },
+  {
+    "id": "p-020",
+    "slug": "dell-powerswitch-n3224t-on",
+    "name": "Dell PowerSwitch N3224T-ON",
+    "brand": "Dell",
+    "category": "switch",
+    "price": 64000000,
+    "stock": 7,
+    "featured": false,
+    "image": null,
+    "specSummary": ["24× 10GbE RJ45", "2× 100G QSFP28", "Tanpa PoE"],
+    "specs": {
+      "Port": "24× 10GbE RJ45",
+      "Uplink": "2× 100G QSFP28",
+      "PoE": "Tanpa PoE",
+      "Form factor": "1U rack",
+      "Garansi": "1 tahun"
+    }
+  },
+  {
+    "id": "p-021",
+    "slug": "cisco-isr-4331",
+    "name": "Cisco ISR 4331",
+    "brand": "Cisco",
+    "category": "router",
+    "price": 63500000,
+    "stock": 9,
+    "featured": false,
+    "image": null,
+    "specSummary": ["Hingga 100 Mbps (upgrade 300)", "3× GE + 2× NIM", "VPN, QoS, SD-WAN"],
+    "specs": {
+      "Throughput": "Hingga 100 Mbps (upgrade 300)",
+      "Port": "3× GE + 2× NIM",
+      "Fitur": "VPN, QoS, SD-WAN",
+      "Form factor": "1U rack",
+      "Garansi": "1 tahun"
+    }
+  },
+  {
+    "id": "p-022",
+    "slug": "mikrotik-ccr2004-16g-2s",
+    "name": "MikroTik CCR2004-16G-2S+",
+    "brand": "MikroTik",
+    "category": "router",
+    "price": 12400000,
+    "stock": 30,
+    "featured": true,
+    "image": null,
+    "specSummary": ["Hingga 25 Gbps", "16× 1GbE + 2× 10G SFP+", "BGP, OSPF, VPN"],
+    "specs": {
+      "Throughput": "Hingga 25 Gbps",
+      "Port": "16× 1GbE + 2× 10G SFP+",
+      "Fitur": "BGP, OSPF, VPN",
+      "Form factor": "Desktop",
+      "Garansi": "1 tahun"
+    }
+  },
+  {
+    "id": "p-023",
+    "slug": "juniper-mx204",
+    "name": "Juniper MX204",
+    "brand": "Juniper",
+    "category": "router",
+    "price": 520000000,
+    "stock": 2,
+    "featured": false,
+    "image": null,
+    "specSummary": ["Hingga 400 Gbps", "4× 100G + 8× 10G", "BGP, MPLS, EVPN"],
+    "specs": {
+      "Throughput": "Hingga 400 Gbps",
+      "Port": "4× 100G + 8× 10G",
+      "Fitur": "BGP, MPLS, EVPN",
+      "Form factor": "1U rack",
+      "Garansi": "1 tahun"
+    }
+  },
+  {
+    "id": "p-024",
+    "slug": "ubiquiti-edgerouter-12",
+    "name": "Ubiquiti EdgeRouter 12",
+    "brand": "Ubiquiti",
+    "category": "router",
+    "price": 9600000,
+    "stock": 16,
+    "featured": false,
+    "image": null,
+    "specSummary": ["Hingga 10 Gbps", "10× 1GbE + 2× SFP", "OSPF, VPN, QoS"],
+    "specs": {
+      "Throughput": "Hingga 10 Gbps",
+      "Port": "10× 1GbE + 2× SFP",
+      "Fitur": "OSPF, VPN, QoS",
+      "Form factor": "Desktop",
+      "Garansi": "1 tahun"
+    }
+  },
+  {
+    "id": "p-025",
+    "slug": "huawei-netengine-ar6120",
+    "name": "Huawei NetEngine AR6120",
+    "brand": "Huawei",
+    "category": "router",
+    "price": 29800000,
+    "stock": 8,
+    "featured": false,
+    "image": null,
+    "specSummary": ["Hingga 1 Gbps", "2× GE + 2× SFP", "SD-WAN, VPN, IPsec"],
+    "specs": {
+      "Throughput": "Hingga 1 Gbps",
+      "Port": "2× GE + 2× SFP",
+      "Fitur": "SD-WAN, VPN, IPsec",
+      "Form factor": "1U rack",
+      "Garansi": "1 tahun"
+    }
+  },
+  {
+    "id": "p-026",
+    "slug": "cisco-catalyst-8200",
+    "name": "Cisco Catalyst 8200",
+    "brand": "Cisco",
+    "category": "router",
+    "price": 91000000,
+    "stock": 5,
+    "featured": false,
+    "image": null,
+    "specSummary": ["Hingga 2 Gbps", "4× 1GbE + 2× NIM", "SD-WAN, SASE"],
+    "specs": {
+      "Throughput": "Hingga 2 Gbps",
+      "Port": "4× 1GbE + 2× NIM",
+      "Fitur": "SD-WAN, SASE",
+      "Form factor": "Desktop",
+      "Garansi": "1 tahun"
+    }
+  },
+  {
+    "id": "p-027",
+    "slug": "fortinet-fortigate-100f",
+    "name": "Fortinet FortiGate 100F",
+    "brand": "Fortinet",
+    "category": "router",
+    "price": 54500000,
+    "stock": 12,
+    "featured": false,
+    "image": null,
+    "specSummary": ["Firewall 20 Gbps", "22× GE + 4× SFP", "SD-WAN, NGFW, VPN"],
+    "specs": {
+      "Throughput": "Firewall 20 Gbps",
+      "Port": "22× GE + 4× SFP",
+      "Fitur": "SD-WAN, NGFW, VPN",
+      "Form factor": "1U rack",
+      "Garansi": "1 tahun"
+    }
+  },
+  {
+    "id": "p-028",
+    "slug": "tp-link-er7206-omada",
+    "name": "TP-Link ER7206 Omada",
+    "brand": "TP-Link",
+    "category": "router",
+    "price": 2650000,
+    "stock": 50,
+    "featured": false,
+    "image": null,
+    "specSummary": ["Hingga 1 Gbps", "6× GE (1 SFP)", "VPN, Load balance"],
+    "specs": {
+      "Throughput": "Hingga 1 Gbps",
+      "Port": "6× GE (1 SFP)",
+      "Fitur": "VPN, Load balance",
+      "Form factor": "Desktop",
+      "Garansi": "1 tahun"
+    }
+  }
+]
